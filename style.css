@@ -1,0 +1,82 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.quadrant_one {
+    display: flex;
+    flex-direction: column;
+    border: 2px solid red;
+    width: 100vw;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 2px solid yellow;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    gap: 8px;
+}
+
+li {
+    
+}
+.website_awesome_content {
+    display: flex;
+    border: 2px dotted red;
+    margin: 5%;
+
+}
+
+.left_side {
+    flex: 1;
+    border: 2px dotted yellow;
+}
+
+.right_side {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    border: 2px dotted red;
+}
+
+.quadrant_two {
+    display: flex;
+    border: 2px dotted green;
+    justify-content: center;
+    100
+}
+
+.content_two {
+    display: flex;
+    flex-direction: column;
+    border: 2px solid red;
+    width: 80%;
+}
+
+.topbar {
+    border: 2px dotted blue;
+    display: flex;
+    justify-content: center;
+}
+
+.fourblock {
+    border: 2px dotted greenyellow;
+    margin: 16px;
+}
+
+.bottombar {
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+}
