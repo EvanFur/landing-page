@@ -109,6 +109,11 @@ ul {
 
 .fourblock {
     padding: 16px;
+    text-align: center;
+}
+
+.fourblock img {
+    border-radius: 16px;
 }
 
 .bottombar {
